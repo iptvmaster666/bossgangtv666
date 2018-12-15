@@ -1,0 +1,10 @@
+#EXTINF:0 tvg-id="ext" group-title="| Ulusal |",------| Ulusal |------
+http://si-red.com:8080/kutay/140918/1893
+#EXTINF:0 tvg-id="TRT1.tr" group-title="| Ulusal |",Trt 1
+http://si-red.com:8080/kutay/140918/700
+#EXTINF:0 tvg-id="TRT1.tr" group-title="| Ulusal |",Trt 1 HD
+http://si-red.com:8080/kutay/140918/798
+#EXTINF:0 tvg-id="TRT1.tr" group-title="| Ulusal |",Trt 1 SD Yedek
+http://si-red.com:8080/kutay/140918/13124
+#EXTINF:0 tvg-id="TRT.gr" group-title="| Ulusal |",Trt 4K
+http://si-red.com:8080/kutay/140918/21769
